@@ -7,7 +7,7 @@ pipeline {
     }
 
     environment {
-        REPO_URL = 'https://github.com/sonivishal238/AutomationPOC.git'
+        REPO_URL = 'https://github.com/sonivishal238/AutomationPOC2.git'
         BRANCH_NAME = "feature/nswag-update-${env.BUILD_ID}"
     }
 
